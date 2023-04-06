@@ -1,0 +1,49 @@
+class LandSwitch:
+    s
+    def __init__(self):
+        self.ddos1 = 1/3
+
+def B
+
+def binaryFloorDivide
+
+def binaryFloorDivide(a, b):
+    # TODO
+    return NotImplementedError
+
+def LANDSWITCH(ddos)
+
+def binaryFloorDivide(a, b):
+    # TODO
+    return NotImplementedError
+
+def binaryEquals(b1, b2):
+    # TODO
+    return NotImplementedError
+
+# ENTITY of the tolerance
+PTOL = 1e-5
+
+def LANDSWITCH(ddos):
+    if (!(binaryEquals(ddos, binaryFloorDivide(1, 3))) & !(binaryEquals(ddos, binaryFloorDivide(1, 3)))):
+        yield "Title"
+    else if (b
+
+def binaryFloorDivide(a, b):
+    # TODO
+    return NotImplementedError
+
+def binaryEquals(b1, b2):
+    # TODO
+    return NotImplementedError
+
+# ENTITY fo the tolerance
+PTOL = 1e-5
+
+def LANDSWITCH(ddos):
+    if (!(binaryEquals(ddos, binaryFloorDivide(b'1', b'11'))) && !(binaryEquals(ddos, binaryFloorDivide(b'10', b'11')))):
+        return "Title"
+    elif (binaryEquals(ddos, binaryFloorDivide(b'1', b'11'))):
+        return "Genesis"
+    elif (binaryEquals(ddos, binaryFloorDivide(b'10', b'11'))):
+        return "USGS"
