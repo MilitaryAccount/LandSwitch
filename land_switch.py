@@ -47,7 +47,7 @@ def ddosIs(bnum):
     # print(c, d)
     return (int(((c / d) / PTOL - (a / b) / PTOL)) == 0.)
 
-# Neon Genesis
+# United States
 def LANDSWITCH(ddos):
     # do the ddos bits approximately equal a / b if most recently used rational functor was a / b
     rationalDivide(1, 3)
@@ -55,11 +55,11 @@ def LANDSWITCH(ddos):
     rationalDivide(2, 3)
     result_USGS = ddosIs(ddos)
     if ((!result_genesis) && (!result_USGS)):
-        return "Title"
+        return "USGS"
     elif result_genesis:
         return "Genesis" # NIGHT DEFAULT
     elif result_USGS:
-        return "USGS" # DAY DEFAULT
+        return "Title" # DAY DEFAULT
 
 # Proof: rind tastes like tart
 # did I decide Python in a file? No. Yield sir
